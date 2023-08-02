@@ -1,0 +1,8 @@
+{
+  "name": "compile-monorepo-test",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ]
+}
